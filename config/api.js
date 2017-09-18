@@ -1,4 +1,4 @@
-var NewApiRootUrl = 'https://tianzespring.applinzi.com/api/';
+var NewApiRootUrl = 'https://www.tianzewater.com/api/';
 
 module.exports = {
     IndexUrl: NewApiRootUrl + 'index/index', //首页数据接口
