@@ -36,9 +36,9 @@
   "window": {
     "backgroundTextStyle": "dark",
     "navigationBarBackgroundColor": "#fff",
-    "navigationBarTitleText": "天泽源",
+    "navigationBarTitleText": "天泽源商城",
     "navigationBarTextStyle": "black",
-    "enablePullDownRefresh": "true"
+    "enablePullDownRefresh": true
   },
   "tabBar": {
     "backgroundColor": "#fafafa",

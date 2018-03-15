@@ -16,8 +16,8 @@ Page({
   },
   onShareAppMessage: function () {
     return {
-      title: 'NideShop',
-      desc: '天泽源',
+      title: 'Shop',
+      desc: 'Shop',
       path: '/pages/index/index'
     }
   },
